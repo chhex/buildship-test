@@ -2,7 +2,8 @@ Buildship Test Szenario:
 
 Preconditions: 
 
-A Empty local Maven Repo, before 
+A Empty local Maven Repo 
+
 Eclipse -> Preferences -> Download Artifact Sources is unchecked
 
 Enviroment:
