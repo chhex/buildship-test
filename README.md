@@ -25,7 +25,7 @@ Note: I had the same szeanrio in other Enviroments
 
 ## Expectation
 
-When navigating /test-gradle/src/main/java/TestCli.java to the declaration example org.apache.commons.cli.Options to see the source code, which isn't the case.
+When navigating /test-gradle/src/main/java/TestCli.java to the declaration as an example org.apache.commons.cli.Options to see the source code. This isn't the case.
 
 Only after doing a Maven -> Update Project -> with Force Update of Snapshots/Releases  on the project /test-m2e the source code is downloaded and then also visuable through Buildship
 
