@@ -1,6 +1,6 @@
-# Buildship Test Szenario: 
+# Buildship Test Szenario 
 
-## Preconditions: 
+## Preconditions 
 
 a. A Empty local Maven Repo 
 
@@ -27,5 +27,5 @@ Note: I had the same szeanrio in other Enviroments
 
 When navigating /test-gradle/src/main/java/TestCli.java to the declaration example org.apache.commons.cli.Options to see the source code, which isn't the case.
 
-Only after doing a Maven Update of /test-m2e the source code is downloaded.
+Only after doing a Maven -> Update Project -> with Force Update of Snapshots/Releases  on the project /test-m2e the source code is downloaded and then also visuable through Buildship
 
