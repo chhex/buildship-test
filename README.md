@@ -20,8 +20,8 @@ Note: I had the same szeanrio in other Enviroments
 
 ## Steps 
 
-1. First import test-m2e into Eclipse 
-2. Then  import test-gradle into Eclipse 
+1. First import test-m2e into Eclipse as Maven Project
+2. Then  import test-gradle into Eclipse as Gradle Project
 
 ## Expectation
 
