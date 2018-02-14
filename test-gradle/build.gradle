@@ -2,12 +2,11 @@ apply plugin: 'java'
 
 // In this section you declare where to find the dependencies of your project
 repositories {
-	mavenLocal()
-    mavenCentral()
+   mavenLocal()
+   mavenCentral()
 }
 
 dependencies {
-
-    compile 'commons-cli:commons-cli:1.4'
+   compile 'commons-cli:commons-cli:1.4'
 }
 
