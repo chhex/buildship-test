@@ -20,12 +20,12 @@ Note: I had the same szeanrio in other Enviroments
 
 ## Steps 
 
-1. First import test-m2e into Eclipse 
-2. Then  import test-gradle into Eclipse 
+1. First import test-m2e into Eclipse as Maven Project
+2. Then  import test-gradle into Eclipse as Gradle Project
 
 ## Expectation
 
-When navigating /test-gradle/src/main/java/TestCli.java to the declaration example org.apache.commons.cli.Options to see the source code, which isn't the case.
+When navigating /test-gradle/src/main/java/TestCli.java to the declaration as an example org.apache.commons.cli.Options to see the source code. This isn't the case.
 
 Only after doing a Maven -> Update Project -> with Force Update of Snapshots/Releases  on the project /test-m2e the source code is downloaded and then also visuable through Buildship
 
